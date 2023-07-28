@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\obj\Debug\T4_E1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\obj\Debug\T4_E1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\obj\Debug\T4_E1.Form1.resources
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\obj\Debug\T4_E1.Properties.Resources.resources
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\obj\Debug\T4_E1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\obj\Debug\T4_E1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\bin\Debug\T4_E1.exe.config
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\bin\Debug\T4_E1.exe
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\bin\Debug\T4_E1.pdb
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\obj\Debug\T4_E1.exe
+C:\Users\PC\Desktop\II PAC 2023\POO\Tarea 4 (si funciona)\T4_E1\obj\Debug\T4_E1.pdb
