@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\T4_E2\bin\Debug\T4_E2.exe.config
+C:\Users\PC\Desktop\T4_E2\bin\Debug\T4_E2.exe
+C:\Users\PC\Desktop\T4_E2\bin\Debug\T4_E2.pdb
+C:\Users\PC\Desktop\T4_E2\obj\Debug\T4_E2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\T4_E2\obj\Debug\T4_E2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\T4_E2\obj\Debug\T4_E2.Form1.resources
+C:\Users\PC\Desktop\T4_E2\obj\Debug\T4_E2.Properties.Resources.resources
+C:\Users\PC\Desktop\T4_E2\obj\Debug\T4_E2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\T4_E2\obj\Debug\T4_E2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\T4_E2\obj\Debug\T4_E2.exe
+C:\Users\PC\Desktop\T4_E2\obj\Debug\T4_E2.pdb
+C:\Users\PC\Desktop\T4_E2\bin\Debug\AutoLote.accdb
